@@ -114,3 +114,123 @@ print(me.motto())
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,30:4f46e5,70:7c3aed,100:06b6d4"/>
+<h2 align="center">
+  ⚡ Tech Arsenal
+</h2>
+
+<div align="center">
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql" />
+</p>
+
+---
+
+### 🚀 Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+
+</p>
+
+---
+
+### ☁ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,github,vscode" />
+
+</p>
+
+---
+
+### 📊 Data Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark"/>
+
+</p>
+
+---
+
+### 🤖 AI / ML
+
+<p>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-1E90FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google"/>
+
+</p>
+
+</div>
+
+---
+
+# 📈 Skill Progress
+
+<div align="center">
+
+| Skill | Progress |
+|:------|:---------|
+| Python | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ |
+| SQL | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ |
+| Power BI | 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ |
+| AWS | 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ |
+| React | 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ |
+| FastAPI | 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ |
+
+</div>
+
+---
+
+# 🌎 Areas of Interest
+
+<div align="center">
+
+🧠 Artificial Intelligence
+
+📊 Data Analytics
+
+⚙ Full Stack Development
+
+☁ Cloud Computing
+
+🚀 Open Source
+
+🤖 Generative AI
+
+📱 Intelligent Applications
+
+</div>
+
+---
