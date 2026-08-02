@@ -47,44 +47,25 @@ I'm **Kartik Laddha**, an AI Engineer and Data Analyst passionate about building
 
 <br>
 
-## 🚀 What I Do
+## 🚀 Currently Building
 
-✨ Build AI-powered applications
-
-📊 Create Data Analytics dashboards
-
-☁️ Explore Cloud Technologies
-
-🤖 Develop Intelligent Automation
-
-💡 Turn Ideas into Products
+- 🌾 Krishi Saarthi
+- 🤖 CrestAI (AI Business Operating System)
+- 📊 Advanced Data Analytics Dashboards
+- ☁️ AWS Cloud & Generative AI
+- 🚀 Modern Full Stack Applications
 
 ---
 
-# 🌟 Current Focus
+# 🌱 Currently Learning
 
-- 🌾 Building AI applications
-- 📈 Data Analytics & Visualization
-- 🤖 Generative AI
 - ☁ AWS Cloud
-- ⚡ Full Stack Development
+- 🤖 Agentic AI
+- ⚡ FastAPI
+- ⚛ React
+- 🐳 Docker
 
 ---
-
-# 💬 Quote
-
-> **"The best way to predict the future is to build it."**
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider following me ⭐
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,30:4f46e5,70:7c3aed,100:06b6d4"/>
-<h2 align="center">
   ⚡ Tech Arsenal
 </h2>
 
@@ -166,40 +147,23 @@ I'm **Kartik Laddha**, an AI Engineer and Data Analyst passionate about building
 
 ---
 
-# 📈 Skill Progress
+# 🎯 Core Expertise
 
 <div align="center">
 
-| Skill | Progress |
-|:------|:---------|
-| Python | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ |
-| SQL | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ |
-| Power BI | 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ |
-| AWS | 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ |
-| React | 🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ |
-| FastAPI | 🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ |
-
-</div>
-
----
-
-# 🌎 Areas of Interest
-
-<div align="center">
-
-🧠 Artificial Intelligence
+🤖 Artificial Intelligence
 
 📊 Data Analytics
 
-⚙ Full Stack Development
-
 ☁ Cloud Computing
 
-🚀 Open Source
+⚡ Full Stack Development
 
-🤖 Generative AI
+🧠 Machine Learning
 
-📱 Intelligent Applications
+🚀 Generative AI
+
+📈 Business Intelligence
 
 </div>
 
@@ -207,59 +171,52 @@ I'm **Kartik Laddha**, an AI Engineer and Data Analyst passionate about building
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌾 Krishi Saarthi
 
-AI-powered agricultural assistant helping farmers with multilingual voice, image and text support.
+> **AI-Powered Agricultural Assistant**
+
+A multilingual AI platform that helps farmers make informed decisions using voice, text, and image inputs. The system combines LLMs, weather intelligence, crop disease detection, and market insights to provide personalized agricultural recommendations.
+
+**Highlights**
+
+- 🌱 Crop disease detection from images
+- 🎙️ Voice-based interaction
+- 🌦️ Weather-aware recommendations
+- 📈 Market price insights
+- 🤖 AI-powered farming guidance
+- 🌐 Multilingual support
 
 **Tech Stack**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square)
-![Vertex AI](https://img.shields.io/badge/-Vertex_AI-4285F4?style=flat-square)
-
-✨ Features
-
-- 🌾 Crop disease detection
-- 🎤 Voice assistant
-- 🌦 Weather updates
-- 📈 Market price prediction
-- 🤖 AI recommendations
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge"/>
-</a>
+`Python` `FastAPI` `React` `Gemini` `Vertex AI` `Firebase`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Business Intelligence Dashboard
 
-Interactive Power BI dashboard for hotel performance analytics.
+> **Power BI Analytics Dashboard**
+
+An interactive dashboard designed to analyze hotel performance metrics and transform raw operational data into meaningful business insights through dynamic visualizations and KPI tracking.
+
+**Highlights**
+
+- 📈 Revenue Analysis
+- 🏨 Occupancy Rate Tracking
+- 💰 ADR & RevPAR Analysis
+- 📊 Executive KPI Dashboard
+- 📉 Trend Analysis
+- 📋 Interactive Filters
 
 **Tech Stack**
 
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel)
-
-✨ Features
-
-- 📊 ADR Analysis
-- 📈 Revenue Insights
-- 📉 Occupancy Trends
-- 🏨 RevPAR Dashboard
-- 📌 Executive KPIs
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge"/>
-</a>
+`Power BI` `SQL` `Excel` `DAX`
 
 </td>
 
@@ -267,42 +224,48 @@ Interactive Power BI dashboard for hotel performance analytics.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 DyslexiaAid
 
-AI-based dyslexia detection and personalized training platform.
+> **AI-Based Dyslexia Detection Platform**
+
+A machine learning platform designed to support early dyslexia detection through handwriting, speech, and eye-movement analysis while providing personalized learning activities.
+
+**Highlights**
+
+- 👁️ Eye Tracking
+- ✍️ Handwriting Analysis
+- 🎤 Speech Processing
+- 🧩 Personalized Learning
+- 📚 Adaptive Training Modules
 
 **Tech Stack**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-
-✨ Features
-
-- 👁 Eye Tracking
-- ✍ Handwriting Analysis
-- 🎙 Speech Recognition
-- 🧠 Personalized Learning
-
-<a href="YOUR_REPO_LINK">
-<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge"/>
-</a>
+`Python` `OpenCV` `React` `Machine Learning`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚧 Currently Building
+### 🚀 CrestAI
 
-## CrestAI
+> **AI Business Operating System**
 
-AI Business Operating System
+An intelligent business platform currently under development that integrates AI agents, automation, analytics, CRM, inventory, finance, and customer support into a unified workspace.
 
-> Intelligent automation platform designed for businesses.
+**Highlights**
 
-🚀 Coming Soon...
+- 🤖 AI Agents
+- 📊 Business Analytics
+- 📦 Inventory Management
+- 💬 AI Customer Support
+- 📈 Sales Dashboard
+- ☁️ Cloud Native
+
+**Status**
+
+🟢 Currently Building
 
 </td>
 
