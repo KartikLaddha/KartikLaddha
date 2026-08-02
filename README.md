@@ -32,48 +32,21 @@
 
 # 💫 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-```python
-class KartikLaddha:
+### 👨‍💻 AI Engineer | Data Analyst
 
-    def __init__(self):
+🚀 Passionate about building AI-powered products that solve real-world problems.
 
-        self.name = "Kartik Laddha"
+🌱 Currently learning **AWS**, **Generative AI**, **FastAPI**, and **React**.
 
-        self.role = "AI Engineer"
+📊 Skilled in **Python**, **SQL**, **Power BI**, **Tableau**, and **Machine Learning**.
 
-        self.location = "Mumbai 🇮🇳"
+💡 I enjoy creating AI applications, analytics dashboards, and full-stack solutions.
 
-        self.languages = [
-            "Python",
-            "SQL",
-            "JavaScript"
-        ]
+🎯 **Goal:** Build innovative products that make everyday life easier.
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Generative AI",
-            "Machine Learning",
-            "Data Analytics",
-            "Cloud Computing"
-        ]
-
-        self.learning = [
-            "AWS",
-            "Agentic AI",
-            "FastAPI",
-            "React",
-            "Docker"
-        ]
-
-    def motto(self):
-        return "Build products that people love to use."
-
-me = KartikLaddha()
-
-print(me.motto())
-```
+☕ **Fun Fact:** I love turning ideas into working applications.
 
 <br>
 
