@@ -272,3 +272,20 @@ An intelligent business platform currently under development that integrates AI 
 </tr>
 
 </table>
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KartikLaddha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KartikLaddha&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikLaddha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
