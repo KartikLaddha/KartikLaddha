@@ -31,7 +31,7 @@
 ---
 # 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ### 👋 Hey there!
 
