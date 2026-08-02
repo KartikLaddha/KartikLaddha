@@ -35,25 +35,28 @@
 
 ### 👋 Hey there!
 
-I'm **Kartik Laddha**, an AI Engineer and Data Analyst passionate about building intelligent products that solve real-world problems.
+I'm **Kartik Laddha**, passionate about solving real-world problems through **AI, Data Analytics, and Business Intelligence**.
 
-- 🤖 Building AI-powered applications with modern technologies
-- 📊 Creating interactive dashboards and data-driven solutions
-- ☁️ Exploring AWS, Generative AI, and scalable backend systems
-- 🌱 Continuously learning and experimenting with new technologies
-- 💡 I believe great software should be both useful and enjoyable to use.
-
+- 📊 Transforming data into meaningful business insights.
+- 🤖 Building AI-powered applications for real-world use cases.
+- ☁️ Exploring Cloud, Generative AI, and modern technologies.
+- 🚀 Passionate about technology, analytics, and digital innovation.
+- 🌱 Always learning and continuously improving.
 <br clear="both"/>
 
 <br>
 
 ## 🚀 Currently Building
 
-- 🌾 Krishi Saarthi
-- 🤖 CrestAI (AI Business Operating System)
-- 📊 Advanced Data Analytics Dashboards
-- ☁️ AWS Cloud & Generative AI
-- 🚀 Modern Full Stack Applications
+- 📊 Business Intelligence Dashboards
+
+- 🤖 AI-powered Applications
+
+- 📈 Data-driven Solutions
+
+- ☁️ AWS Cloud
+
+- 🚀 Digital Products
 
 ---
 
