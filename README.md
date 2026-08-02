@@ -29,24 +29,21 @@
 </div>
 
 ---
-
 # 💫 About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-### 👨‍💻 AI Engineer | Data Analyst
+### 👋 Hey there!
 
-🚀 Passionate about building AI-powered products that solve real-world problems.
+I'm **Kartik Laddha**, an AI Engineer and Data Analyst passionate about building intelligent products that solve real-world problems.
 
-🌱 Currently learning **AWS**, **Generative AI**, **FastAPI**, and **React**.
+- 🤖 Building AI-powered applications with modern technologies
+- 📊 Creating interactive dashboards and data-driven solutions
+- ☁️ Exploring AWS, Generative AI, and scalable backend systems
+- 🌱 Continuously learning and experimenting with new technologies
+- 💡 I believe great software should be both useful and enjoyable to use.
 
-📊 Skilled in **Python**, **SQL**, **Power BI**, **Tableau**, and **Machine Learning**.
-
-💡 I enjoy creating AI applications, analytics dashboards, and full-stack solutions.
-
-🎯 **Goal:** Build innovative products that make everyday life easier.
-
-☕ **Fun Fact:** I love turning ideas into working applications.
+<br clear="both"/>
 
 <br>
 
