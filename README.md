@@ -59,11 +59,13 @@ I'm **Kartik Laddha**, an AI Engineer and Data Analyst passionate about building
 
 # 🌱 Currently Learning
 
-- ☁ AWS Cloud
-- 🤖 Agentic AI
-- ⚡ FastAPI
-- ⚛ React
-- 🐳 Docker
+🌱 Current Learning
+
+• AWS Cloud
+• FastAPI
+• Docker
+• Agentic AI
+• React
 
 ---
   ⚡ Tech Arsenal
@@ -287,5 +289,111 @@ An intelligent business platform currently under development that integrates AI 
 <div align="center">
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikLaddha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikLaddha&theme=tokyo-night&hide_border=true"/>
+
+</p>
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KartikLaddha&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
+
+</p>
+<h2 align="center">🏅 Certifications</h2>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://skillicons.dev/icons?i=aws" width="60"/>
+
+### AWS
+
+Cloud Foundations
+
+</td>
+
+<td align="center" width="33%">
+
+📊
+
+### Power BI
+
+Business Intelligence
+
+</td>
+
+<td align="center" width="33%">
+
+🤖
+
+### Artificial Intelligence
+
+Workshops & Certifications
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+<h2 align="center">🎯 2026 Goals</h2>
+
+<div align="center">
+
+✅ Build impactful AI products
+
+⬜ Master AWS Cloud
+
+⬜ Contribute to Open Source
+
+⬜ Publish production-ready projects
+
+⬜ Learn System Design
+
+⬜ Secure an AI / Data role
+
+</div>
+
+---
+<h2 align="center">🌐 Let's Connect</h2>
+
+<div align="center">
+
+<a href="https://kartikladdha-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kartik-laddha-767216265/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kartikladdha1404@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### Let's build something amazing together 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0f172a,30:4f46e5,70:7c3aed,100:06b6d4"/>
 
 </div>
