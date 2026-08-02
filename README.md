@@ -204,3 +204,108 @@ I'm **Kartik Laddha**, an AI Engineer and Data Analyst passionate about building
 </div>
 
 ---
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌾 Krishi Saarthi
+
+AI-powered agricultural assistant helping farmers with multilingual voice, image and text support.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square)
+![Vertex AI](https://img.shields.io/badge/-Vertex_AI-4285F4?style=flat-square)
+
+✨ Features
+
+- 🌾 Crop disease detection
+- 🎤 Voice assistant
+- 🌦 Weather updates
+- 📈 Market price prediction
+- 🤖 AI recommendations
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📊 Business Intelligence Dashboard
+
+Interactive Power BI dashboard for hotel performance analytics.
+
+**Tech Stack**
+
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel)
+
+✨ Features
+
+- 📊 ADR Analysis
+- 📈 Revenue Insights
+- 📉 Occupancy Trends
+- 🏨 RevPAR Dashboard
+- 📌 Executive KPIs
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧠 DyslexiaAid
+
+AI-based dyslexia detection and personalized training platform.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+
+✨ Features
+
+- 👁 Eye Tracking
+- ✍ Handwriting Analysis
+- 🎙 Speech Recognition
+- 🧠 Personalized Learning
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🚧 Currently Building
+
+## CrestAI
+
+AI Business Operating System
+
+> Intelligent automation platform designed for businesses.
+
+🚀 Coming Soon...
+
+</td>
+
+</tr>
+
+</table>
